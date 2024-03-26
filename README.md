@@ -22,7 +22,7 @@ To get started with Dart, you'll need to have Dart installed on your system. You
 Once Dart is installed, you can clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/dart-fundamentals.git
+git clone https://github.com/rickytabe/learn-Dart-Fundamentals.git
 ``` 
 Features
 This repository covers the following fundamental Dart concepts:
