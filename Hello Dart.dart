@@ -6,7 +6,7 @@ void main() {
   /**
    * Chapter 2: Expressions, Variables &
 Constants
-   * COMMAENTING OF CODES */
+   * COMMENTING OF CODES */
   print("Hello Dart");
   print(sin(22 * pi) / cos(22 * pi));
   print(sqrt(22));
